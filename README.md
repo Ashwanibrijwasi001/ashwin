@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Ashwanibrijwasi001/ashwin/blob/main/R.jpeg)
 <h1 align="center">Hi 👋, I'm ashwani brijwasi001</h1>
 <h3 align="center">A passionate webdeveloper from India</h3>
 <img aling="right"alt="coding"width="400"src="https://th.bing.com/th/id/OIP.vyA9ldzEGzJrnEsTmbWekAHaEK?rs=1&pid=ImgDetMain">
